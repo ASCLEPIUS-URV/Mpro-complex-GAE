@@ -8,5 +8,5 @@ The files "URV-Activity-Mpro-FRAGALYSIS.mat", and "URV-Activity-Mpro-FRAGALYSIS-
 
 
 
-#GAE, Autoencoder
+#GAE,Autoencoder
 The Graph Autoencoder and autoencoder can be run from the entry-point file, "Run_Mpro.mat". Hyperparameters are in the Configuration_MPro.m
