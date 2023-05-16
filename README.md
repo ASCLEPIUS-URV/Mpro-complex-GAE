@@ -12,3 +12,5 @@ The file"URV-Mpro-Activity.mat" contains the ligand pIC50 values.
 
 # GAE and Autoencoder
 The Graph Autoencoder and autoencoder can be run from the entry-point file, "Run_Mpro.mat". Hyperparameters are in the Configuration_MPro.m
+Regression can be calculated using semantic features, strucutral features, or a combination of both. To modify this, comment/uncomment the corresponding variable "r" in the file "Z_Compress.m"
+
